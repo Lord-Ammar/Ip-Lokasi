@@ -1,3 +1,4 @@
+#Yang Ini Lu Rikod GPP Njink
 #!bin/usr/bash
 
 blue="\033[34;1m"
