@@ -1,3 +1,16 @@
+#open source
+#Kalo Mau Decode Kasi Credit Njink
+#Dasar Decode Sampah!!!
+
+
+
+
+
+
+
+
+
+
 import os
 import json
 import requests,time
