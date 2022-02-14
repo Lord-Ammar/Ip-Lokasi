@@ -1,3 +1,6 @@
+#Ini Cuma Logo Njink Mau Di Decode Juga?!!!!
+#Goblok Kang Rikod
+
 import os,sys,requests,time
 print ("""
 \033[1;95m╔═╗\033[1;97m┌┬┐┌─┐┬─┐┌┬┐┬┌┐┌┌─┐  \033[1;95m╔╦╗\033[1;97m┌─┐┌─┐┬  ┌─┐
