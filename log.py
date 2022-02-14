@@ -1,3 +1,7 @@
+#Ini Cuma Logo Njink!!!!
+#Masa Logo Mau Lu Decode Juga!!!
+#Jangan Rikod Atuh._.
+
 import os
 import json
 import time
