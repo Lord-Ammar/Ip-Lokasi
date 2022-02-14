@@ -1,4 +1,6 @@
 <?php
+#Jangan Diubah Nanti Eror
+#Jangan Di Decode Juga
 
 system('clear');
 system('python log.py');
